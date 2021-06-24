@@ -1,1 +1,1 @@
-This is a Flight Reservation Code, YOu can see the remaining seats and available Flight numbers.
+This is a Flight Reservation Code, You can see the remaining seats and available Flight numbers.
