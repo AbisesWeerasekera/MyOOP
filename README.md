@@ -1,1 +1,1 @@
-A objcet oriected C++ code for flight reservation 
+A object oriented C++ code for flight reservation 
